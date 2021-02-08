@@ -13,8 +13,8 @@
 - 👨‍🏫 I teach AP-level computer science to high school students as private tutor
 - 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the Brazilian Fair for Sciences and Engineering (FEBRACE)
 
-
-###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
+###### *The Molecular Sciences Program is a special undergradute program from USP where interdisciplinarity and innovation drive a diverse community of leaders eager to approach the world’s most complex challenges through the power of collaboration.
+###### **Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
 
 <!--
 **badain/badain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
