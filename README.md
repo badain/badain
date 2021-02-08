@@ -17,7 +17,7 @@ I'm passionate about learning (anything!) and helping others. Let's share ideias
 - 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the Brazilian Fair for Sciences and Engineering (FEBRACE)
 
 #### 🔮 In the future:
-- 🌱 I'll perform a scientific research about a *Bioinformatics* topic
+- 🌱 I'll perform a scientific research about a *Bioinformatic* topic
 #### 💬 Connect with me:
 
 
