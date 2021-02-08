@@ -11,7 +11,7 @@
 
 #### ⚡ In my community:
 
-- 👨‍🏫 I teach AP-level computer science to high school students as private tutor
+- 👨‍🏫 I teach AP-level computer science to high school students as a private tutor
 - 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the Brazilian Fair for Sciences and Engineering (FEBRACE)
 
 ###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
