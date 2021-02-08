@@ -1,10 +1,9 @@
 ### It's-a Me, Rafa!😄✌️
+I'm passionate about learning (anything!) and helping others. Let's share ideias about: science, biology, coding and visual design.
 
 - 👨‍🔬 I'm a *Molecular Sciences Scholar* at **University of São Paulo**
 - 👨‍💻 I'm also certified in *Computer Science* and *Digital Design**
 
-#### 💬 Connect with me:
-I'm passionate about learning (anything!) and helping others. Let's share ideias about: science, biology, coding and visual design.
 
 #### ☄️ In development:
 
@@ -19,6 +18,7 @@ I'm passionate about learning (anything!) and helping others. Let's share ideias
 
 #### 🔮 In the future:
 - 🌱 I'll perform a scientific research about *Bioinformatics* topics
+#### 💬 Connect with me:
 
 ###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
 
