@@ -1,6 +1,7 @@
 ### It's-a Me, Rafa!😄✌️
 
-- I'm currently a scholar at the University of São Paulo's _Molecular Sciences Program_ 
+- 🎓 I'm a scholar at the University of São Paulo's _Molecular Sciences Program_
+- 🔭 I’m currently developing a [new website](http://cecm.usp.br/inscricoes) for the _Molecular Sciences Program_
 
 <!--
 **badain/badain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
