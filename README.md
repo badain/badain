@@ -1,7 +1,7 @@
 ### It's-a Me, Rafa!😄✌️
 
-- 👨‍🔬 I'm a *Molecular Sciences Scholar** at **University of São Paulo**
-- 👨‍💻 I'm also certified in *Computer Science* and *Digital Design***
+- 👨‍🔬 I'm a *Molecular Sciences Scholar* at **University of São Paulo**
+- 👨‍💻 I'm also certified in *Computer Science* and *Digital Design**
 
 #### ☄️ In development
 
@@ -13,8 +13,7 @@
 - 👨‍🏫 I teach AP-level computer science to high school students as private tutor
 - 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the Brazilian Fair for Sciences and Engineering (FEBRACE)
 
-###### *The Molecular Sciences Program is a special undergradute program from USP
-###### **Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
+###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
 
 <!--
 **badain/badain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
