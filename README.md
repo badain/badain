@@ -1,7 +1,7 @@
 ### It's-a Me, Rafa!😄✌️
 
-- 👨‍🔬 I'm a *Molecular Sciences Scholar* at **University of São Paulo**
-- 👨‍💻 I'm also certified in *Computer Science* and *Digital Design**
+- 👨‍🔬 I'm a *Molecular Sciences Scholar** at **University of São Paulo**
+- 👨‍💻 I'm also certified in *Computer Science* and *Digital Design***
 
 #### ☄️ In development
 
