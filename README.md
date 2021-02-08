@@ -1,6 +1,6 @@
 ### It's-a Me, Rafa!😄✌️
 
-- 👨🏽‍🔬 I'm a scholar at the University of São Paulo's **Molecular Sciences Program**
+- 👨🏽‍🔬 I'm a *Molecular Sciences Scholar* at the **University of São Paulo's**
 - 🔭 I’m currently developing a [new website](cecm.usp.br/inscricoes) for the *Molecular Sciences Program*
 - 📊 I've developed [Observatório COVID-19 BR](github.com/covid19br/covid19br.github.io)'s Visual Identity, [Website](covid19br.github.io) and Web/R Integration.
 
