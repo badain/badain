@@ -2,6 +2,7 @@
 
 - 👨‍🔬 I'm a *Molecular Sciences Scholar* at **University of São Paulo**
 - 👨‍💻 I'm also certified in *Computer Science* and *Digital Design**
+- In love with: science, biology, coding and visual design.
 
 #### ☄️ In development:
 
