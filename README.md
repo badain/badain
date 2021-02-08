@@ -1,5 +1,7 @@
 ### It's-a Me, Rafa!😄✌️
 
+- I'm currently a scholar at the University of São Paulo's _Molecular Sciences Program_ 
+
 <!--
 **badain/badain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
