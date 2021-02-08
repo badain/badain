@@ -7,7 +7,7 @@
 
 - 🎨 I’m currently developing a [new website](http://cecm.usp.br/inscricoes) for the *Molecular Sciences Program*
 - 📊 I'm developing and maintaining [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration
-- 📦 I'm fine-tuning a implementation of a solution to the 3D Bin Packing Problem (3DBPP) in Python 
+- 📦 I'm fine-tuning a Python implementation of a solution to the 3D Bin Packing Problem (3DBPP)
 
 #### ⚡ In my community:
 
