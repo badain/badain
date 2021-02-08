@@ -19,6 +19,7 @@ I'm passionate about learning (anything!) and helping others. Let's share ideias
 #### 🔮 In the future:
 - 🌱 I'll perform a scientific research about a *Bioinformatic* topic
 #### 💬 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/badain/)
 
 
 ###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
