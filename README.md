@@ -8,7 +8,7 @@
 - 🎨 I’m currently developing a [new website](http://cecm.usp.br/inscricoes) for the *Molecular Sciences Program*
 - 📊 I'm developing and maintaining [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration.
 
-###### *Technically I'm certified in *Digital Production* (but it's not a very descriptive title)
+###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
 
 <!--
 **badain/badain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
