@@ -6,7 +6,13 @@
 #### ☄️ In development
 
 - 🎨 I’m currently developing a [new website](http://cecm.usp.br/inscricoes) for the *Molecular Sciences Program*
-- 📊 I'm developing and maintaining [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration.
+- 📊 I'm developing and maintaining [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration
+
+#### ⚡ In my community:
+
+- 👨‍🏫 I teach AP-level computer science to high school students as private tutor
+- 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the Brazilian Fair for Sciences and Engineering (FEBRACE)
+
 
 ###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
 
