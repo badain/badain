@@ -6,7 +6,7 @@
 #### ☄️ In development
 
 - 🎨 I’m currently developing a [new website](cecm.usp.br/inscricoes) for the *Molecular Sciences Program*
-- 📊 I'm developing and improving [Observatório COVID-19 BR](github.com/covid19br/covid19br.github.io)'s visual identity, [website](covid19br.github.io) and web/R integration.
+- 📊 I'm developing and maintaining [Observatório COVID-19 BR](github.com/covid19br/covid19br.github.io)'s visual identity, [website](covid19br.github.io) and web/R integration.
 
 <!--
 **badain/badain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
