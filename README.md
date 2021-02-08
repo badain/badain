@@ -3,7 +3,7 @@
 - 👨‍🔬 I'm a *Molecular Sciences Scholar* at **University of São Paulo**
 - 👨‍💻 I'm also certified in *Computer Science* and *Digital Design*
 
-## ☄️ In development
+#### ☄️ In development
 
 - 🎨 I’m currently developing a [new website](cecm.usp.br/inscricoes) for the *Molecular Sciences Program*
 - 📊 I've developed [Observatório COVID-19 BR](github.com/covid19br/covid19br.github.io)'s visual identity, [website](covid19br.github.io) and web/R integration.
