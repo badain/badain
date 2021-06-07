@@ -7,7 +7,7 @@ I'm passionate about learning (anything!) and helping others. Let's share ideias
 
 #### ☄️ In development:
 
-- 🎨 I’m currently mantaining the [new website](http://cecm.usp.br/) for the *Molecular Sciences Program*
+- 🎨 I’m currently maintaining the [new website](http://cecm.usp.br/) for the *Molecular Sciences Program*
 - 📊 I'm developing and maintaining [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration
 - 📦 I'm fine-tuning a Python implementation of [an approximation](https://www.sciencedirect.com/science/article/abs/pii/S0305054808002670) to the 3D Bin Packing Problem (3DBPP)
 
