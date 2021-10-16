@@ -15,7 +15,7 @@ I'm passionate about learning (anything!) and helping others. Let's share ideias
 
 - 👨‍🏫 I teach AP-level computer science to high school students as a private tutor
 - 💬 I organize live talks with innovative researchers @ the [CMnários Project](https://www.youtube.com/watch?v=cLELdXM2NE8&list=PLxRhdgU89XT_1Ilg4hhR2auNlptYERY1O&index=2)
-- 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the [Brazilian Fair for Sciences and Engineering (FEBRACE)] (https://febrace.org.br/)
+- 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the [Brazilian Fair for Sciences and Engineering (FEBRACE)](https://febrace.org.br/)
 
 #### 🔮 In the future:
 - 📦 I'll finish my Python implementation of [this approximation](https://www.sciencedirect.com/science/article/abs/pii/S0305054808002670) to the 3D Bin Packing Problem (3DBPP)
