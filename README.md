@@ -1,24 +1,25 @@
 ### It's-a Me, Rafa!😄✌️
 I'm passionate about learning (anything!) and helping others. Let's share ideias about: science, biology, coding and web design.
 
-- 👨‍🔬 I'm a *Molecular Sciences Scholar* at **University of São Paulo**
+- 👨‍🔬 I'm a *Molecular Sciences BSc* graduate from the **University of São Paulo**
 - 👨‍💻 I'm also certified in *Computer Science* and *Digital Design**
 
+#### 🧱 Stuff I made:
 
-#### ☄️ In development:
+- 🌺 I published a [python pipeline (AMEBaS)](https://github.com/badain/amebas) to help scientists study cell polarity - based in pollen tube growth and ion dynamics data while at the [Computer Vision Research Group (IME/USP)](http://www.vision.ime.usp.br/).
+- 🎨 The [new website](http://cecm.usp.br/) for the *Molecular Sciences Program*.
+- 📊 During the pandemic, I maintained the [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration.
 
-- 🎨 I’m currently maintaining the [new website](http://cecm.usp.br/) for the *Molecular Sciences Program*
-- 📊 I'm developing and maintaining [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration
-- 🌱 I'm learning scientific research topics on *Computer Vision* @ the [Computer Vision Research Group (IME/USP)](http://www.vision.ime.usp.br/)
+#### ☄️ Current interests:
+
+- 💬 I'm interested in developing technologies to curb disinformation online and help turn human information consumption habits healthier. I've been collaborating on a research to compare the impact of different messaging approaches on health behaviors.
+- 📦 I find the 3D Bin Packing Problem (3DBPP) somewhat interesting and have been working on some implementations of [solutions](https://www.sciencedirect.com/science/article/abs/pii/S037722172030406) proposed in the literature.
 
 #### ⚡ In my community:
 
 - 👨‍🏫 I teach AP-level computer science to high school students as a private tutor
 - 💬 I organize live talks with innovative researchers @ the [CMnários Project](https://www.youtube.com/watch?v=cLELdXM2NE8&list=PLxRhdgU89XT_1Ilg4hhR2auNlptYERY1O&index=2)
 - 🏆 I'm a judge for the *Interdisciplinarity* and *Academic Merit* awards at the [Brazilian Fair for Sciences and Engineering (FEBRACE)](https://febrace.org.br/)
-
-#### 🔮 In the future:
-- 📦 I'll finish my Python implementation of [this approximation](https://www.sciencedirect.com/science/article/abs/pii/S0305054808002670) to the 3D Bin Packing Problem (3DBPP)
 
 
 ###### *Technically, I'm certified in *Digital Production* (but it's not a very descriptive title)
