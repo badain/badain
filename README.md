@@ -13,7 +13,7 @@ I'm passionate about learning (anything!) and helping others. Let's share ideias
 #### ☄️ Current interests:
 
 - 💬 I'm interested in developing technologies to curb disinformation online and help turn human information consumption habits healthier. I've been collaborating on a research to compare the impact of different messaging approaches on health behaviors.
-- 📦 I find the 3D Bin Packing Problem (3DBPP) somewhat interesting and have been working on some implementations of [solutions](https://www.sciencedirect.com/science/article/abs/pii/S037722172030406) proposed in the literature.
+- 📦 I find the 3D Bin Packing Problem (3DBPP) somewhat interesting and have been working on some implementations of [solutions](https://www.nature.com/articles/s41598-024-56699-7) proposed in the literature.
 
 #### ⚡ In my community:
 
