@@ -6,7 +6,7 @@ I'm passionate about learning (anything!) and helping others. Let's share ideias
 
 #### 🧱 Stuff I made:
 
-- 🌺 I published a [python pipeline (AMEBaS)](https://github.com/badain/amebas) to help scientists study cell polarity - based in pollen tube growth and ion dynamics data while at the [Computer Vision Research Group (IME/USP)](http://www.vision.ime.usp.br/).
+- 🌺 I published a [python pipeline (AMEBaS)](https://github.com/badain/amebas) to help scientists study cell polarity - based in pollen tube growth and ion dynamics data while. Read and hear me talk about it [here](https://app.jove.com/t/64857/amebas-automatic-midline-extraction-and-background-subtraction-of-ratiometric-fluorescence-time-lapses-of-polarized-single-cells).
 - 🎨 The [new website](http://cecm.usp.br/) for the *Molecular Sciences Program*.
 - 📊 During the pandemic, I maintained the [Observatório COVID-19 BR](https://github.com/covid19br/covid19br.github.io)'s visual identity, [website](https://covid19br.github.io) and web/R integration.
 
